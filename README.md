@@ -1,1 +1,1 @@
-# Example-App
+# MyNotes-App
